@@ -1,4 +1,4 @@
-module "vpc" {
+module "vpc2" {
   source  = "app.terraform.io/ChunTing-training/vpc/aws"
   version = "2.44.0"
   name = "my-vpc2"
